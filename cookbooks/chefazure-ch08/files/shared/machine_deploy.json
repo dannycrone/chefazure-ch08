@@ -5,7 +5,7 @@
         "location": {
             "type": "string",
             "metadata": {
-                "description": "The location where the resources will be created."
+                "description": "This is the location where the resources will be created."
             }
         },
         "vmSize": {
