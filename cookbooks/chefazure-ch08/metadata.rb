@@ -4,6 +4,6 @@ maintainer_email 'dan.crone@nfocus.co.uk'
 license 'all_rights'
 description 'Installs/Configures chefazure-ch08'
 long_description 'Installs/Configures chefazure-ch08'
-version '0.1.4'
+version '0.1.6'
 
 depends 'jenkins'
